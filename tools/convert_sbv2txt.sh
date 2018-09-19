@@ -1,3 +1,5 @@
+#!/bin/bash
+
 if [ $# -ne 2 ]; then
   echo "Usage: convert_sbv2txt.sh xxx.sbv yyy.txt"
   exit 1
